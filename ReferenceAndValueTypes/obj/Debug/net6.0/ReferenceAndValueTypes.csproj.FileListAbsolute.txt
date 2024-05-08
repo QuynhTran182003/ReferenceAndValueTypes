@@ -1,0 +1,15 @@
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.exe
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.deps.json
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.runtimeconfig.json
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\refint\ReferenceAndValueTypes.dll
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.genruntimeconfig.cache
+C:\Users\Huong Quynh Tran\source\repos\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ref\ReferenceAndValueTypes.dll
